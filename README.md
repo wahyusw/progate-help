@@ -10,3 +10,6 @@ password : 123456
 
 ***user***
 Please create a new one by register on the website
+
+# Environment Credentials
+Hit me up on Discord for this : Minithor#8241
